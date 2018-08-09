@@ -1,5 +1,5 @@
 /*
-  Sing a verse of '99 bottles of beer on the wall'
+  Sing a verse of '99 bottles of beer on the wall' (demo)
 */
 
 function singVerse(num) {
