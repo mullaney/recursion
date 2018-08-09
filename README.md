@@ -34,6 +34,6 @@ An example of using an array as input in a recursive function
 
 ## Links
 
-- [Factorial wiki article](https://en.wikipedia.org/wiki/Factorial)
-- [Real-world examples of recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)
-- [What on earth is recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+- [Factorial wiki article](https://en.wikipedia.org/wiki/Factorial) - If you want to know what factorial is
+- [Real-world examples of recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion) - Stack Overflow question with several great answers
+- [What on earth is recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc) - A video explanation of solving factorial recursively 
