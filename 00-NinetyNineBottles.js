@@ -27,7 +27,8 @@ function singBottlesRecursively(num) {
     singFinale();
   } else {
     singVerse(num);
-    setTimeout(() => singBottlesRecursively(num - 1), 4000);
+    singBottlesRecursively(num - 1);
+    // setTimeout(() => singBottlesRecursively(num - 1), 4000);
   }
 }
 
