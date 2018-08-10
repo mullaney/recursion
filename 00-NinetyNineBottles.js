@@ -31,4 +31,4 @@ function singBottlesRecursively(num) {
   }
 }
 
-singBottlesRecursively(99);
+singBottlesRecursively(10);
